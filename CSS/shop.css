@@ -240,7 +240,7 @@
         flex-wrap: wrap;
         flex-direction: row;
         gap: 15px;
-        justify-content: space-between;
+        justify-content: center;
     }
 
     .shop .section2 .card {
